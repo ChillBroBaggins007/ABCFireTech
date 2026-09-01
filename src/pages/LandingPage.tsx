@@ -64,8 +64,7 @@ export default function LandingPage() {
           </Link>
           <div className="hidden items-center gap-8 md:flex">
             <a href="#services" className="text-sm font-medium text-white/80 transition-colors hover:text-white">Services</a>
-            <a href="#products" className="text-sm font-medium text-white/80 transition-colors hover:text-white">Products</a>
-            <Link to="/products" className="text-sm font-medium text-white/80 transition-colors hover:text-white">Catalog</Link>
+            <Link to="/products" className="text-sm font-medium text-white/80 transition-colors hover:text-white">Products</Link>
             <a href="#testimonials" className="text-sm font-medium text-white/80 transition-colors hover:text-white">Clients</a>
             <a href="#contact" className="text-sm font-medium text-white/80 transition-colors hover:text-white">Contact</a>
           </div>
